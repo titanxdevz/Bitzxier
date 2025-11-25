@@ -1,0 +1,24 @@
+
+{
+    "TOKEN": "",
+    "MONGO_DB": "",
+	"WEBHOOK_URL" : "",
+    "ImagineWebhookURL": "",
+    "Join_logs_URL": "",
+    "leave_logs_URL": "",
+    "COMMAND_LOGS_URL": "",
+    "Role_LOGS_URL": "",
+    "RateLimit_log_URL": "",
+    "Error_log_URL": "",
+    "Redis_Url": "",
+    "cooldown": true,
+    "owner": ["1383706658315960330"],
+    "bitzxier" : ["1383706658315960330"],
+    "mainmode": ["1383706658315960330"],
+    "premium" : ["1383706658315960330"],
+    "admin": ["1383706658315960330"],
+    "np": ["1383706658315960330"],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1413847649617973288",
+    
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```"
+}
