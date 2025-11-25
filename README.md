@@ -52,12 +52,7 @@ Below are two options you can use depending on where you want to show the widget
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/zMxCnc29Zm)
 
-- Website embed (copy into a web page). Replace `GUILD_ID` with your server ID if you prefer the official widget. Note: GitHub README does not allow iframes; use the following on an actual website:
-
-```html
-<!-- Discord widget (website use) -->
-<iframe src="https://discord.com/widget?id=GUILD_ID&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-```
+<iframe src="https://discord.com/widget?id=1433690273870778410&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 ---
