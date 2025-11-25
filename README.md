@@ -65,4 +65,5 @@ Below are two options you can use depending on where you want to show the widget
 
 - Discord ID: `1433690273870778410`
 - Invite: https://discord.gg/zMxCnc29Zm
+- 
 
