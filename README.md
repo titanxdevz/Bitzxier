@@ -49,7 +49,6 @@ node shards.js
 
 Below are two options you can use depending on where you want to show the widget.
 
-- GitHub-friendly badge (clickable):
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/zMxCnc29Zm)
 
@@ -60,7 +59,6 @@ Below are two options you can use depending on where you want to show the widget
 <iframe src="https://discord.com/widget?id=GUILD_ID&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ```
 
-If you don't know your `GUILD_ID`, the invite link above will still let people join.
 
 ---
 
